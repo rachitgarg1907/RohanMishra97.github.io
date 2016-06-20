@@ -8,6 +8,7 @@ image: /assets/article_images/2016-06-19-the-morning/pic.jpg
 ---
 
 (*Romance* - 3 minute read )
+_______
 The man could swear that he heard the train yawn as it pulled up on the station. The slumber seethed through every inch of the metal. It irritated the fuck out of him. The feeling was not unjustified. It was a bright, sunny morning, the first working day of the week. Causality was at play. The entire city seemed to be travelling together, some of them slumped in their seats, trying to catch a few more minutes of precious sleep, ‘got to wear that hangover out’; the ones standing up were either lustily looking for seats or had resigned to their fates and closed their eyes, ‘please lord, can’t afford to sleep on the job, the son of a bitch will fire me’. The stifling claustrophobia made him nauseous as he tried in vain to make some space for himself. Asphyxiation seemed imminent. For the next two hours, his body would be puppet to his fellow passenger’s desire and adjustments for space. He was fighting with his legs for some space when it hit him. His heart skipped a beat and then it skipped one more. The indistinct smell of perfume drifted lazily along the length of the train as the man tried desperately to recollect his senses. Memories flooded his head as it jerked up alert and like a pigeon started looking for the source of that undeniable scent.
 She lived in his head even today. A breath of the fresh, mountain air.
 He tried to peer through the collage of limbs. 
@@ -22,16 +23,6 @@ They slammed shut before he could reach them
 . Fin.
 - [Harsh Pandey](http://www.facebook.com/wordsmiths14)
 
-{% highlight js %}
-
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
 
 
 [jekyll]:      http://jekyllrb.com
