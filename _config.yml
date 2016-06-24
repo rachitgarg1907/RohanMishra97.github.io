@@ -14,9 +14,19 @@ logo: "/assets/images/tws_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Rohan Mishra'
-author: 'Rohan Mishra'
-author_image: "/assets/images/author.jpg"
+name: Rohan Mishra
+author: Rohan Mishra
+author_image: /assets/images/rohan.jpg
+
+#authors:
+  #rohan_mishra:
+  #  name:'Rohan Mishra'
+   # author:'Rohan Mishra'
+    #author_image:"/assets/images/rohan.jpg"
+ # harsh_pandey
+  #  name:'Harsh Pandey'
+   # author:'Harsh Pandey'
+    #author_image:"/assets/images/harsh.jpg"
 
 paginate:	5
 
@@ -39,7 +49,7 @@ social:
 
   - icon:	facebook
     url:	https://facebook.com/wordsmiths14
-    desc: Connect with me facebook
+    desc: Connect with us on Facebook!
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
@@ -57,3 +67,31 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+  #- icon: medium
+    url: https://medium.com/the-wordsmiths
+    desc: We love Medium.
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: tumblr
+    url: "https://www.tumblr.com/blog/we-thewordsmiths"
+    desc: Tumblr is Love.
+    share_url: 
+    share_title:
+    share_link:
+
+  - icon: instagram
+    url: 
+    desc: Instantly Follow us!
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: pinterest
+    url:
+    desc: I don't know what it is.
+    share_url:
+    share_title:
+    share_link:
