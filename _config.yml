@@ -28,7 +28,7 @@ author_image: /assets/images/rohan.jpg
    # author:'Harsh Pandey'
     #author_image:"/assets/images/harsh.jpg"
 
-paginate:	5
+# paginate:	5
 
 url: "http://rohanmishra97.github.io" # the base hostname & protocol for your site
 baseurl: ""
