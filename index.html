@@ -58,7 +58,7 @@ layout: default
     {% endif %}
 
     <div class="cf frame">
-      {% for post in paginator.posts %}
+      {% for post in site.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
@@ -76,7 +76,7 @@ layout: default
       {% endfor %}
     </div>
 
-    <nav class="pagination" role="navigation">
+    <!-- <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
         <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
       {% endif %}
@@ -89,7 +89,7 @@ layout: default
         {% endif %}
       {% endif %}
     </nav>
-
+ -->
 
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
