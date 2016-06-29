@@ -8,7 +8,7 @@ image: /assets/article_images/2016-06-20-pink-floyd/pic.jpg
 author: "Rohan Mishra"
 author_image: /assets/images/rohan.jpg
 ---
-##My dad and Pink Floyd <br>
+<h2>My dad and Pink Floyd</h2>
 (<i> Music, 3 minutes </i>) <br>
 <p>It was the year of 1979. My dad, a teenager then, heard something that changed his life. From the transistor radio, he heard a guitar solo which spoke to him. The lyrics were subliminal. He couldn’t wait to know which song was this and what band made such a poignant track that conveyed so much, in such a simple form.
 <p>At the end of the song, the radio jockey muttered in his unmindfulness “This was Pink Floyd, next on track, ladies and gentlemen: Bob Dylan.”</p>

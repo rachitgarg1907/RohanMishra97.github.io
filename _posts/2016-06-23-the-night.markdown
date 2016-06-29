@@ -8,7 +8,7 @@ image: /assets/article_images/2016-06-23-the-night.jpg
 author: "Santrupta Mishra"
 author_image: /assets/images/santrupta.jpg
 ---
-##That Night :- 
+<h2>That Night</h2> 
 (*Romance, 3 minute read *) <br>
 The sight of empty roads leading to her house was always exciting for him. The sight of cuckoo birds cuckooing in the middle of the night, the sounds of the night watchmen blowing their whistles, searching for fiends, thieves and what not, the sight of dogs sometimes sleeping peacefully, lying in the middle of the road, and the two of them, walking hand to hand, talking with each other.<br>
 Today was not one of those days. Rather, the last few months weren’t like this. She was walking next to him, unusually silent. His eyes weren’t searching for hers. The homeless people, frail and weak, sleeping in the sidewalk, the sound of the wind blowing with a hooting noise, rain drizzling slowly into the road, his eyes were busy looking at those things. He knew why, but didn’t feel like admitting it.<br>

@@ -9,7 +9,7 @@ author: "Raghav Aggarwal"
 author_image: /assets/images/raghav.jpg
 ---
 
-##Faith  
+<h2>Faith</h2>  
 (*Life, 2 minute read*)
 <p>A busy market, she stands in the temple, peaceful, serene. Her eyes closed. While people around ask for material things, all she wants is to never lose faith
 .</p>
