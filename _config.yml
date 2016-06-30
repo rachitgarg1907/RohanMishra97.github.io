@@ -68,12 +68,12 @@ social:
 #    share_title:
 #    share_link:
 
-  - icon: medium
-    url: https://medium.com/the-wordsmiths
-    desc: We love Medium.
-    share_url:
-    share_title:
-    share_link:
+ # - icon: medium
+ #   url: https://medium.com/the-wordsmiths
+  #  desc: We love Medium.
+   # share_url:
+   # share_title:
+   # share_link:
 
   - icon: tumblr
     url: "https://www.tumblr.com/blog/we-thewordsmiths"
