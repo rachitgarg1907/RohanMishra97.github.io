@@ -24,7 +24,7 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-              <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
+              , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} 
             </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -40,7 +40,7 @@
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
               on
               <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-              <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
+              , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} 
             </div>
           </div>
         </div>
@@ -61,7 +61,7 @@
               {% if social.share_url != null %}
                 <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
                   onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-                <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
+                <i class="fa fa-{{ social.icon }}"></i><span class="">{{ social.icon }}</span>
                 </a>
               {% endif %}
             {% endfor %}
@@ -80,14 +80,10 @@
           </div>
           {{/post}}
           <div class="isRight">
-            <h5 class="index-headline featured"><span>Supported by</span></h5>
-            <footer class="site-footer">
-              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
-              <div class="inner">
-                <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
-              </div>
-            </footer>
+              <!-- 
+                  Add Social Icons here.
+              -->
+              
           </div>
         </div>
         {%if site.disqus %}

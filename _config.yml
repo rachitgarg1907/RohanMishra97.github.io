@@ -68,7 +68,7 @@ social:
 #    share_title:
 #    share_link:
 
-  #- icon: medium
+  - icon: medium
     url: https://medium.com/the-wordsmiths
     desc: We love Medium.
     share_url:
@@ -83,7 +83,7 @@ social:
     share_link:
 
   - icon: instagram
-    url: 
+    url: https://www.instagram.com/wordsmithstws/
     desc: Instantly Follow us!
     share_url:
     share_title:
