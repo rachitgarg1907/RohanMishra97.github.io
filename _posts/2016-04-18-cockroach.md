@@ -5,6 +5,7 @@ date:   2016-04-18 14:34:25
 categories: ["blog", "weird"]
 tags: 
 image: /assets/article_images/2016-04-18-cockroach.jpg
+image2:  /assets/article_images/2016-04-18-cockroach.jpg
 author: "Santrupta Mishra"
 author_image: /assets/images/santrupta.jpg
 ---

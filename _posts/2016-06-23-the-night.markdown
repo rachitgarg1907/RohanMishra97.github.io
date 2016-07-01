@@ -5,6 +5,7 @@ date:   2016-06-23 18:33:10
 categories: blog fiction
 tags: romance fiction
 image: /assets/article_images/2016-06-23-the-night.jpg
+image2: /assets/article_images/2016-06-23-the-night.jpg
 author: "Santrupta Mishra"
 author_image: /assets/images/santrupta.jpg
 ---

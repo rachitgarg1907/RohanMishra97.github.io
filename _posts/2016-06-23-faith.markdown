@@ -5,6 +5,7 @@ date:   2016-06-23 20:33:10
 categories: blog fiction
 tags:  fiction
 image: /assets/article_images/2016-06-23-faith.jpg
+image2: /assets/article_images/2016-06-23-faith.jpg
 author: "Raghav Aggarwal"
 author_image: /assets/images/raghav.jpg
 ---

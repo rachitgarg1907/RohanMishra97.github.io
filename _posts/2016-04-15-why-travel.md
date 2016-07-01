@@ -5,6 +5,7 @@ date:   2016-04-15 14:34:25
 categories: ["blog", "commentary"]
 tags: 
 image: /assets/article_images/2016-04-15-why-travel.jpg
+image2: /assets/article_images/2016-04-15-why-travel.jpg
 author: "Shreya Barua"
 author_image: /assets/images/shreyab.jpg
 ---

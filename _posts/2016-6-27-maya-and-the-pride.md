@@ -5,6 +5,7 @@ date: 2016-06-27 10:49:30.287411
 categories: blog fiction
 tags: ["pride", "fiction", "thriller"]
 image: /assets/article_images/2016-6-27-maya-and-the-pride.png
+image2: /assets/article_images/2016-6-27-maya-and-the-pride.png
 author: Shreya Barua
 author_image: /assets/images/shreyab.jpg
 ---
