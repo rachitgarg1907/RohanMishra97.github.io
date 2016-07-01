@@ -2,8 +2,8 @@
 layout: post
 title:  "The Bait"
 date:   2016-06-17 14:34:25
-categories: blog philosophy
-tags: featured
+categories: blog
+tags: [featured, life]
 image: /assets/article_images/2016-06-17-the-bait.jpg
 author: "Gursifath Bhasin"
 author_image: /assets/images/gursifath.jpg

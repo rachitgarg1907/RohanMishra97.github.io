@@ -24,9 +24,10 @@ layout: default
         {% endif %}
       {% endfor %}
       <a href="/about/">About</a>
-      .
-      <a href="/contact/">Contact Us</a>
+      ·
+      <a href="/contact/">Contact Us</a>.
     </div>
+
 </header>
 
 
@@ -39,8 +40,8 @@ layout: default
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            <header class="post-header" style="color:#66a3ff">
+              <h2 class="post-title" itemprop="name" ><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <i>{{post.author}}</i>
             <section class="post-excerpt" itemprop="description">
