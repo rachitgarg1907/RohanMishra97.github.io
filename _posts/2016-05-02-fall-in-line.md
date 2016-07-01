@@ -5,7 +5,7 @@ date:   2016-05-02 14:34:25
 categories: Life
 tags: [life, rohan]
 image: /assets/article_images/2016-05-02-fall-in-line.png
-image2: /assets/article_images/2016-05-02-fall-in-line-mobile.png
+image2: /assets/article_images/2016-05-02-fall-in-line.png
 author: "Rohan Mishra"
 author_image: /assets/images/rohan.jpg
 ---
