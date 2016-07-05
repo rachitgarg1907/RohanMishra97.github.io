@@ -83,15 +83,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="well">
 	
 	
-<a style="color: #404040;" href="#life"><h4 style="display: inline">#life</h4></a>&nbsp;&nbsp;
-	
-	
-<a style="color: #404040;" href="#rohan"><h4 style="display: inline">#rohan</h4></a>&nbsp;&nbsp;
-	
-	
-<a style="color: #404040;" href="#featured"><h4 style="display: inline">#featured</h4></a>&nbsp;&nbsp;
-	
-	
 <a style="color: #404040;" href="#romance"><h4 style="display: inline">#romance</h4></a>&nbsp;&nbsp;
 	
 	
@@ -115,47 +106,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 <a style="color: #404040;" href="#thriller"><h4 style="display: inline">#thriller</h4></a>&nbsp;&nbsp;
 	
+	
+<a style="color: #404040;" href="#featured"><h4 style="display: inline">#featured</h4></a>&nbsp;&nbsp;
+	
 </div>
-
-<h3 id="life">Life</h3>
-
-<div class="well">
-<a style="color: #404040;" href="/blog/2016/06/17/the-bait.html">
-	<h4 class="post-title">The Bait</h4>
-</a>
-    Posted on June 17, 2016
-</div>
-
-<div class="well">
-<a style="color: #404040;" href="/life/2016/05/02/fall-in-line.html">
-	<h4 class="post-title">Fall in Line</h4>
-</a>
-    Posted on May 2, 2016
-</div>
-
-<p><br /></p>
-
-<h3 id="rohan">Rohan</h3>
-
-<div class="well">
-<a style="color: #404040;" href="/life/2016/05/02/fall-in-line.html">
-	<h4 class="post-title">Fall in Line</h4>
-</a>
-    Posted on May 2, 2016
-</div>
-
-<p><br /></p>
-
-<h3 id="featured">Featured</h3>
-
-<div class="well">
-<a style="color: #404040;" href="/blog/2016/06/17/the-bait.html">
-	<h4 class="post-title">The Bait</h4>
-</a>
-    Posted on June 17, 2016
-</div>
-
-<p><br /></p>
 
 <h3 id="romance">Romance</h3>
 
@@ -283,6 +237,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<h4 class="post-title">Maya and the Pride</h4>
 </a>
     Posted on June 27, 2016
+</div>
+
+<p><br /></p>
+
+<h3 id="featured">Featured</h3>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/07/01/tyre.html">
+	<h4 class="post-title">The Lonely Tyre</h4>
+</a>
+    Posted on July 1, 2016
 </div>
 
 <p><br /></p>

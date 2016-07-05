@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Feel"
+date:   2016-07-04 14:34:25
+categories: Poetry
+tags: 
+image: /assets/article_images/2016-07-04-feels.jpg
+image2: /assets/article_images/2016-07-04-feels.jpg
+author: "Tanmay Pal"
+author_image: /assets/images/tanmay.jpg
+---
+<h2>Feel</h2>
+(<i>Poetry</i>)
+<p>A strong case of feels they say,<br>
+Not at such a crucial time, I pray.<br>
+Thumping in the chest,<br>
+Pressure rising in veins<br>
+With every trough and crest<br>
+The heart starts to break the chains.</p>
+
+<p>Feel, my precious,<br>
+We weren’t meant to hold back.<br>
+Don’t pull the reins; be curious<br>
+Let yourself soar high.<br>
+Love. Cry. Fall. Or break.<br>
+Just don’t regret it at the end.</p>
+
+<p>Life is a journey,<br>
+Finished by all but enjoyed by the brave.</p>
