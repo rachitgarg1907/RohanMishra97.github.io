@@ -53,6 +53,21 @@
           <a name="topofpage"></a>
           {{content}}
         </section>
+          {% if page.tags %}
+          <hr>
+          <h3>Category</h3>
+          <div class="well">
+            {% for tag in page.tags %}
+                <a href="/genres#{{tag}}" style="color: #4d4d4d; font-size: 1.3em; text-decoration: none">{{tag | capitalize}}</a> &nbsp;
+            {% endfor %}
+          </div>
+      {% endif %}
+      <br><br><br><br><br>
+                    {% if page.next.url %}
+        <div class="next">
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}" style="text-decoration: none; color: #4d4d4d">Next Post: {{page.next.title}}  &rarr;</a>
+        </div>
+        {% endif %}
         <footer class="post-footer">
           <section class="share">
             Share this article! 

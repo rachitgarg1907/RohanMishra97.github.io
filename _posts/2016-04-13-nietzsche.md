@@ -3,7 +3,7 @@ layout: post
 title:  "Nietzsche"
 date:   2016-04-13 14:34:25
 categories: Life
-tags: 
+tags: life
 image2: /assets/article_images/2016-04-13-nietzsche.jpg
 image: /assets/article_images/2016-04-13-nietzsche.jpg
 author: "Rohan Mishra"
