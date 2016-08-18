@@ -3,7 +3,7 @@ layout: post
 title:  "India Without British"
 date:   2016-07-01 14:34:25
 categories: Commentary
-tags: 
+tags: commentary
 image: /assets/article_images/2016-07-01-india.jpg
 image2: /assets/article_images/2016-07-01-india.jpg
 author: "Shreya Garg"

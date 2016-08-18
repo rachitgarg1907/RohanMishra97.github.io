@@ -3,7 +3,7 @@ layout: post
 title:  "Touch"
 date:   2016-07-04 20:30:00
 categories: Fiction
-tags: 
+tags: fiction
 image: /assets/article_images/2016-07-04-touch.png
 image2: /assets/article_images/2016-07-04-touch.png
 author: "Gursifath Bhasin"

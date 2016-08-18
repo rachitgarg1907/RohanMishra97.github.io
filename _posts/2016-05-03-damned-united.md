@@ -3,7 +3,7 @@ layout: post
 title:  "Damned United"
 date:   2016-05-03 14:34:25
 categories: Commentary
-tags: 
+tags: commentary
 image2: /assets/article_images/2016-05-03-damned-united.jpg
 image: /assets/article_images/2016-05-03-damned-united.jpg
 author: "Shreya Barua"

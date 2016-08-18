@@ -3,7 +3,7 @@ layout: post
 title:  "Feel"
 date:   2016-07-04 14:34:25
 categories: Poetry
-tags: 
+tags: poetry
 image: /assets/article_images/2016-07-04-feels.jpg
 image2: /assets/article_images/2016-07-04-feels.jpg
 author: "Tanmay Pal"

@@ -3,7 +3,7 @@ layout: post
 title:  "The Lonely Tyre"
 date:   2016-07-01 14:34:25
 categories: Thriller
-tags: featured
+tags: featured thriller
 image: /assets/article_images/2016-07-01-tyre.jpg
 image2: /assets/article_images/2016-07-01-tyre.jpg
 author: "Santrupta Mishra"

@@ -3,7 +3,7 @@ layout: post
 title:  "Deserted: Into a trance"
 date:   2016-05-08 14:34:25
 categories: Weird
-tags: 
+tags: weird
 image2: /assets/article_images/2016-05-08-trance.jpg
 image: /assets/article_images/2016-05-08-trance.jpg
 author: "Pratikshya Das"

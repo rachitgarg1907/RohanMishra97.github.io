@@ -3,7 +3,7 @@ layout: post
 title:  "Through the eyes of a Cockroach"
 date:   2016-04-18 14:34:25
 categories: ["blog", "weird"]
-tags: 
+tags: commentary
 image: /assets/article_images/2016-04-18-cockroach.jpg
 image2:  /assets/article_images/2016-04-18-cockroach.jpg
 author: "Santrupta Mishra"

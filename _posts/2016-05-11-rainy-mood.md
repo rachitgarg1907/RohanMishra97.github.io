@@ -3,7 +3,7 @@ layout: post
 title:  "The Rainy Mood"
 date:   2016-05-11 14:34:25
 categories: Thriller
-tags: 
+tags: thriller
 image2: /assets/article_images/2016-05-11-rainy.jpg
 image: /assets/article_images/2016-05-11-rainy.jpg
 author: "Santrupta Mishra"

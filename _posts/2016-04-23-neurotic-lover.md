@@ -3,7 +3,7 @@ layout: post
 title:  "Another Neurotic Lover"
 date:   2016-04-23 14:34:25
 categories: Weird
-tags: 
+tags: thriller
 image2: /assets/article_images/2016-04-23-neurotic-lover.jpg
 image: /assets/article_images/2016-04-23-neurotic-lover.jpg
 author: "Shreya Barua"

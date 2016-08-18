@@ -3,7 +3,7 @@ layout: post
 title:  "Science, A bitch"
 date:   2016-05-15 14:34:25
 categories: Commentary
-tags: 
+tags: commentary
 image2: /assets/article_images/2016-05-15-science.jpg
 image: /assets/article_images/2016-05-15-science.jpg
 author: "Santrupta Mishra"

@@ -3,7 +3,7 @@ layout: post
 title:  "Entrepreneurship 101"
 date:   2016-04-25 14:34:25
 categories: Life
-tags: 
+tags: life
 image2: /assets/article_images/2016-04-25-entrepreneurship.jpg
 image: /assets/article_images/2016-04-25-entrepreneurship.jpg
 author: "Rohan Mishra"

@@ -3,7 +3,7 @@ layout: post
 title:  "Bow vs Arrow"
 date:   2016-04-28 14:34:25
 categories: Commentary
-tags: 
+tags: commentary
 image2: /assets/article_images/2016-04-28-bow-and-arrow.png
 image: /assets/article_images/2016-04-28-bow-and-arrow.png
 author: "Shreya Garg"

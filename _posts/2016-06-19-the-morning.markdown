@@ -3,7 +3,7 @@ layout: post
 title:  "The Morning"
 date:   2016-06-19 14:34:25
 categories: blog fiction
-tags: romance fiction
+tags: romance
 image: /assets/article_images/2016-06-19-the-morning/pic.jpg
 image2: /assets/article_images/2016-06-19-the-morning/pic.jpg
 author: "Harsh Pandey"

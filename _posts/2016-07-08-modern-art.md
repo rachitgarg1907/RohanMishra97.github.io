@@ -3,7 +3,7 @@ layout: post
 title:  "Why Post-Modern Art is not shit."
 date:   2016-07-04 20:30:00
 categories: Commentary
-tags: 
+tags: commentary 
 image: /assets/article_images/2016-07-08-modern-art.jpg
 image2: /assets/article_images/2016-07-08-modern-art.jpg
 author: "Harsh Pandey"

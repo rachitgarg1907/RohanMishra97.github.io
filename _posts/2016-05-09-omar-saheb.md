@@ -3,7 +3,7 @@ layout: post
 title:  "Omar Saheb"
 date:   2016-05-09 14:34:25
 categories: Life
-tags: 
+tags: life
 image2: /assets/article_images/2016-05-09-omar.jpg
 image: /assets/article_images/2016-05-09-omar.jpg
 author: "Rohan Mishra"

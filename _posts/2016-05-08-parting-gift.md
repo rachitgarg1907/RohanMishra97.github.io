@@ -3,7 +3,7 @@ layout: post
 title:  "The Parting Gift"
 date:   2016-05-08 14:34:25
 categories: Life
-tags: 
+tags: life
 image2: /assets/article_images/2016-05-08-parting.jpg
 image: /assets/article_images/2016-05-08-parting.jpg
 author: "Hrishita Patnnaik"

@@ -3,7 +3,7 @@ layout: post
 title:  "Nostalgia"
 date:   2016-07-03 14:34:25
 categories: Poetry
-tags: 
+tags: poetry
 image: /assets/article_images/2016-07-03-nostalgia.jpg
 image2: /assets/article_images/2016-07-03-nostalgia.jpg
 author: "Tanmay Pal"

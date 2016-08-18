@@ -3,7 +3,7 @@ layout: post
 title:  "Twisted Musings"
 date:   2016-04-20 14:34:25
 categories: ["blog", "thriller"]
-tags: 
+tags: thriller
 image: /assets/article_images/2016-04-20-twisted-musings.jpg
 image2: /assets/article_images/2016-04-20-twisted-musings.jpg
 author: "Shreya Barua"

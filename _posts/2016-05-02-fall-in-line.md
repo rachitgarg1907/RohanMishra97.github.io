@@ -3,7 +3,7 @@ layout: post
 title:  "Fall in Line"
 date:   2016-05-02 14:34:25
 categories: Life
-tags: 
+tags: life
 image2: /assets/article_images/2016-05-02-fall-in-line.png
 image: /assets/article_images/2016-05-02-fall-in-line.png
 author: "Rohan Mishra"

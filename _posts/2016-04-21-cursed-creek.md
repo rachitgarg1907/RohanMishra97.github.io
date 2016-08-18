@@ -3,7 +3,7 @@ layout: post
 title:  "Cursed Creek"
 date:   2016-04-21 14:34:25
 categories: ["blog", "poetry"]
-tags: 
+tags: poetry
 image: /assets/article_images/2016-04-21-cursed-creek.jpg
 image2: /assets/article_images/2016-04-21-cursed-creek.jpg
 author: "Sharmishta Mohanty"

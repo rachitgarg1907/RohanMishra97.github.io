@@ -3,7 +3,7 @@ layout: post
 title:  "Objectifying women in music"
 date:   2016-07-07 20:30:00
 categories: Commentary
-tags: 
+tags: commentary
 image: /assets/article_images/2016-07-07-women-music.jpg
 image2: /assets/article_images/2016-07-07-women-music.jpg
 author: "Shreya Garg"

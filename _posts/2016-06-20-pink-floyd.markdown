@@ -3,7 +3,7 @@ layout: post
 title:  "My Dad and Pink Floyd"
 date:   2016-06-19 14:34:25
 categories: blog fiction
-tags: romance fiction
+tags: music
 image: /assets/article_images/2016-06-20-pink-floyd/pic.jpg
 image2: /assets/article_images/2016-06-20-pink-floyd/pic.jpg
 author: "Rohan Mishra"

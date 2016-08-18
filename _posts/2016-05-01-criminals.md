@@ -3,7 +3,7 @@ layout: post
 title:  "Criminals"
 date:   2016-05-01 14:34:25
 categories: Poetry
-tags: 
+tags: poetry
 image2: /assets/article_images/2016-05-01-criminals.jpg
 image: /assets/article_images/2016-05-01-criminals.jpg
 author: "Arushi Chopra"
