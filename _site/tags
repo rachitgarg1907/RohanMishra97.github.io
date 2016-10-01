@@ -85,66 +85,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="well">
 	
 	
-<a style="color: #404040;" href="#romance"><h4 style="display: inline">#romance</h4></a>&nbsp;&nbsp;
+<a style="color: #404040;" href="#life"><h4 style="display: inline">#life</h4></a>&nbsp;&nbsp;
 	
 	
-<a style="color: #404040;" href="#fiction"><h4 style="display: inline">#fiction</h4></a>&nbsp;&nbsp;
-	
-	
-<a style="color: #404040;" href="#Social"><h4 style="display: inline">#Social</h4></a>&nbsp;&nbsp;
+<a style="color: #404040;" href="#thriller"><h4 style="display: inline">#thriller</h4></a>&nbsp;&nbsp;
 	
 	
 <a style="color: #404040;" href="#commentary"><h4 style="display: inline">#commentary</h4></a>&nbsp;&nbsp;
 	
 	
+<a style="color: #404040;" href="#fiction"><h4 style="display: inline">#fiction</h4></a>&nbsp;&nbsp;
+	
+	
+<a style="color: #404040;" href="#poetry"><h4 style="display: inline">#poetry</h4></a>&nbsp;&nbsp;
+	
+	
+<a style="color: #404040;" href="#weird"><h4 style="display: inline">#weird</h4></a>&nbsp;&nbsp;
+	
+	
 <a style="color: #404040;" href="#music"><h4 style="display: inline">#music</h4></a>&nbsp;&nbsp;
 	
 	
-<a style="color: #404040;" href="#nostalgia"><h4 style="display: inline">#nostalgia</h4></a>&nbsp;&nbsp;
-	
-	
-<a style="color: #404040;" href="#pride"><h4 style="display: inline">#pride</h4></a>&nbsp;&nbsp;
-	
-	
-<a style="color: #404040;" href="#thriller"><h4 style="display: inline">#thriller</h4></a>&nbsp;&nbsp;
+<a style="color: #404040;" href="#romance"><h4 style="display: inline">#romance</h4></a>&nbsp;&nbsp;
 	
 	
 <a style="color: #404040;" href="#featured"><h4 style="display: inline">#featured</h4></a>&nbsp;&nbsp;
 	
 </div>
 
-<h3 id="romance">Romance</h3>
+<h3 id="life">Life</h3>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/24/the-night.html">
-	<h4 class="post-title">That Night</h4>
+<a style="color: #404040;" href="/life/2016/10/02/all-along-the-watchtower-an-analysis.html">
+	<h4 class="post-title">All Along The Watchtower-An Analysis</h4>
 </a>
-    Posted on June 24, 2016
-</div>
-
-<div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/19/the-morning.html">
-	<h4 class="post-title">The Morning</h4>
-</a>
-    Posted on June 19, 2016
-</div>
-
-<div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/19/pink-floyd.html">
-	<h4 class="post-title">My Dad and Pink Floyd</h4>
-</a>
-    Posted on June 19, 2016
-</div>
-
-<p><br /></p>
-
-<h3 id="fiction">Fiction</h3>
-
-<div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/27/maya-and-the-pride.html">
-	<h4 class="post-title">Maya and the Pride</h4>
-</a>
-    Posted on June 27, 2016
+    Posted on October 2, 2016
 </div>
 
 <div class="well">
@@ -155,35 +130,189 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/24/the-night.html">
-	<h4 class="post-title">That Night</h4>
+<a style="color: #404040;" href="/life/2016/06/17/the-bait.html">
+	<h4 class="post-title">The Bait</h4>
 </a>
-    Posted on June 24, 2016
+    Posted on June 17, 2016
 </div>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/19/the-morning.html">
-	<h4 class="post-title">The Morning</h4>
+<a style="color: #404040;" href="/life/2016/05/10/push.html">
+	<h4 class="post-title">Push</h4>
 </a>
-    Posted on June 19, 2016
+    Posted on May 10, 2016
 </div>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/19/pink-floyd.html">
-	<h4 class="post-title">My Dad and Pink Floyd</h4>
+<a style="color: #404040;" href="/life/2016/05/09/omar-saheb.html">
+	<h4 class="post-title">Omar Saheb</h4>
 </a>
-    Posted on June 19, 2016
+    Posted on May 9, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/05/08/queen.html">
+	<h4 class="post-title">Queen</h4>
+</a>
+    Posted on May 8, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/05/08/parting-gift.html">
+	<h4 class="post-title">The Parting Gift</h4>
+</a>
+    Posted on May 8, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/05/07/deserted.html">
+	<h4 class="post-title">Deserted</h4>
+</a>
+    Posted on May 7, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/05/02/fall-in-line.html">
+	<h4 class="post-title">Fall in Line</h4>
+</a>
+    Posted on May 2, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/04/25/entrepreneurship.html">
+	<h4 class="post-title">Entrepreneurship 101</h4>
+</a>
+    Posted on April 25, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/04/19/losers.html">
+	<h4 class="post-title">In praise of Losers</h4>
+</a>
+    Posted on April 19, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/life/2016/04/13/nietzsche.html">
+	<h4 class="post-title">Nietzsche</h4>
+</a>
+    Posted on April 13, 2016
 </div>
 
 <p><br /></p>
 
-<h3 id="Social">Social</h3>
+<h3 id="thriller">Thriller</h3>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/social/2016/06/20/cuts-deep.html">
-	<h4 class="post-title">89 Cuts Deep</h4>
+<a style="color: #404040;" href="/thriller/2016/07/12/mother.html">
+	<h4 class="post-title">Mother's Love</h4>
 </a>
-    Posted on June 20, 2016
+    Posted on July 12, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/07/02/fantasy.html">
+	<h4 class="post-title">The Fantasy</h4>
+</a>
+    Posted on July 2, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/07/01/tyre.html">
+	<h4 class="post-title">The Lonely Tyre</h4>
+</a>
+    Posted on July 1, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/fiction/2016/06/27/maya-and-the-pride.html">
+	<h4 class="post-title">Maya and the Pride</h4>
+</a>
+    Posted on June 27, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/05/22/death-do-apart.html">
+	<h4 class="post-title">Till Death do us apart</h4>
+</a>
+    Posted on May 22, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/05/20/tranquil.html">
+	<h4 class="post-title">The Tranquil</h4>
+</a>
+    Posted on May 20, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/05/13/part3.html">
+	<h4 class="post-title">Part 3</h4>
+</a>
+    Posted on May 13, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/05/11/rainy-mood.html">
+	<h4 class="post-title">The Rainy Mood</h4>
+</a>
+    Posted on May 11, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/05/06/part-2.html">
+	<h4 class="post-title">Part 2</h4>
+</a>
+    Posted on May 6, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/05/04/oskar2.html">
+	<h4 class="post-title">Oskar and the War: Part 2</h4>
+</a>
+    Posted on May 4, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/04/29/part-1.html">
+	<h4 class="post-title">Part-1</h4>
+</a>
+    Posted on April 29, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/thriller/2016/04/27/oskar1.html">
+	<h4 class="post-title">Oskar and the War: Part 1</h4>
+</a>
+    Posted on April 27, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/weird/2016/04/23/neurotic-lover.html">
+	<h4 class="post-title">Another Neurotic Lover</h4>
+</a>
+    Posted on April 23, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/weird/2016/04/22/baked.html">
+	<h4 class="post-title">Baked</h4>
+</a>
+    Posted on April 22, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/thriller/2016/04/20/twisted-musings.html">
+	<h4 class="post-title">Twisted Musings</h4>
+</a>
+    Posted on April 20, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/thriller/2016/04/14/blood-red.html">
+	<h4 class="post-title">Blood Red</h4>
+</a>
+    Posted on April 14, 2016
 </div>
 
 <p><br /></p>
@@ -191,10 +320,316 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3 id="commentary">Commentary</h3>
 
 <div class="well">
+<a style="color: #404040;" href="/commentary/2016/07/11/muse.html">
+	<h4 class="post-title">Song of the Muse</h4>
+</a>
+    Posted on July 11, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/07/08/women-music.html">
+	<h4 class="post-title">Objectifying women in music</h4>
+</a>
+    Posted on July 8, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/07/05/modern-art.html">
+	<h4 class="post-title">Why Post-Modern Art is not shit.</h4>
+</a>
+    Posted on July 5, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/07/01/india.html">
+	<h4 class="post-title">India Without British</h4>
+</a>
+    Posted on July 1, 2016
+</div>
+
+<div class="well">
 <a style="color: #404040;" href="/blog/social/2016/06/20/cuts-deep.html">
 	<h4 class="post-title">89 Cuts Deep</h4>
 </a>
     Posted on June 20, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/05/15/science.html">
+	<h4 class="post-title">Science, A bitch</h4>
+</a>
+    Posted on May 15, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/05/14/enslaved.html">
+	<h4 class="post-title">Enslaved by Vermilion</h4>
+</a>
+    Posted on May 14, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/05/12/bbrant.html">
+	<h4 class="post-title">The Big Bang Rant</h4>
+</a>
+    Posted on May 12, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/05/05/bleed.html">
+	<h4 class="post-title">Bleed</h4>
+</a>
+    Posted on May 5, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/05/03/damned-united.html">
+	<h4 class="post-title">Damned United</h4>
+</a>
+    Posted on May 3, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/04/30/weekends.html">
+	<h4 class="post-title">Patriotism And Weekends</h4>
+</a>
+    Posted on April 30, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/04/28/bow-and-arrow.html">
+	<h4 class="post-title">Bow vs Arrow</h4>
+</a>
+    Posted on April 28, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/commentary/2016/04/24/career.html">
+	<h4 class="post-title">Career</h4>
+</a>
+    Posted on April 24, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/weird/2016/04/18/cockroach.html">
+	<h4 class="post-title">Through the eyes of a Cockroach</h4>
+</a>
+    Posted on April 18, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/commentary/2016/04/17/fire.html">
+	<h4 class="post-title">Fire : Homosexuality and the Prejudice.</h4>
+</a>
+    Posted on April 17, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/commentary/2016/04/15/why-travel.html">
+	<h4 class="post-title">Why Travel?</h4>
+</a>
+    Posted on April 15, 2016
+</div>
+
+<p><br /></p>
+
+<h3 id="fiction">Fiction</h3>
+
+<div class="well">
+<a style="color: #404040;" href="/fiction/2016/07/19/a-terribly-uninteresting-tale.html">
+	<h4 class="post-title">A Terribly Uninteresting Tale</h4>
+</a>
+    Posted on July 19, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/fiction/2016/07/17/when-the-fuckboy-falls-in-love.html">
+	<h4 class="post-title">When The Fuckboy Falls in Love</h4>
+</a>
+    Posted on July 17, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/fiction/2016/07/16/the-whisper.html">
+	<h4 class="post-title">The Whisper</h4>
+</a>
+    Posted on July 16, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/fiction/2016/07/05/touch.html">
+	<h4 class="post-title">Touch</h4>
+</a>
+    Posted on July 5, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/fiction/2016/04/16/birthday.html">
+	<h4 class="post-title">Birthday</h4>
+</a>
+    Posted on April 16, 2016
+</div>
+
+<p><br /></p>
+
+<h3 id="poetry">Poetry</h3>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/21/the-phoenix-in-you.html">
+	<h4 class="post-title">The Phoenix in You</h4>
+</a>
+    Posted on July 21, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/20/happiness-is.html">
+	<h4 class="post-title">Happiness is</h4>
+</a>
+    Posted on July 20, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/18/lost.html">
+	<h4 class="post-title">Lost</h4>
+</a>
+    Posted on July 18, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/16/deja-vu.html">
+	<h4 class="post-title">Deja Vu</h4>
+</a>
+    Posted on July 16, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/15/touch.html">
+	<h4 class="post-title">Touch</h4>
+</a>
+    Posted on July 15, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/15/fear.html">
+	<h4 class="post-title">Fear</h4>
+</a>
+    Posted on July 15, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/14/the-last-day.html">
+	<h4 class="post-title">The Last Day</h4>
+</a>
+    Posted on July 14, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/poetry/2016/07/13/thief.html">
+	<h4 class="post-title">Thief</h4>
+</a>
+    Posted on July 13, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/13/untitled.html">
+	<h4 class="post-title">Untitled</h4>
+</a>
+    Posted on July 13, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/poetry/2016/07/12/hung.html">
+	<h4 class="post-title">Hung</h4>
+</a>
+    Posted on July 12, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/poetry/2016/07/11/midnight-hour.html">
+	<h4 class="post-title">Midnight Hour</h4>
+</a>
+    Posted on July 11, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/10/man-eyes.html">
+	<h4 class="post-title">Man closes his Eyes</h4>
+</a>
+    Posted on July 10, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/04/feels.html">
+	<h4 class="post-title">Feel</h4>
+</a>
+    Posted on July 4, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/07/03/nostalgia.html">
+	<h4 class="post-title">Nostalgia</h4>
+</a>
+    Posted on July 3, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/05/21/empty.html">
+	<h4 class="post-title">Empty</h4>
+</a>
+    Posted on May 21, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/05/17/man-up.html">
+	<h4 class="post-title">Man Up</h4>
+</a>
+    Posted on May 17, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/05/16/betrayal.html">
+	<h4 class="post-title">Betrayal</h4>
+</a>
+    Posted on May 16, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/05/08/mother.html">
+	<h4 class="post-title">Mother's Love</h4>
+</a>
+    Posted on May 8, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/poetry/2016/05/01/criminals.html">
+	<h4 class="post-title">Criminals</h4>
+</a>
+    Posted on May 1, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/blog/poetry/2016/04/21/cursed-creek.html">
+	<h4 class="post-title">Cursed Creek</h4>
+</a>
+    Posted on April 21, 2016
+</div>
+
+<p><br /></p>
+
+<h3 id="weird">Weird</h3>
+
+<div class="well">
+<a style="color: #404040;" href="/weird/2016/05/08/trance.html">
+	<h4 class="post-title">Deserted: Into a trance</h4>
+</a>
+    Posted on May 8, 2016
+</div>
+
+<div class="well">
+<a style="color: #404040;" href="/weird/2016/04/26/police.html">
+	<h4 class="post-title">Were you going to call the police</h4>
+</a>
+    Posted on April 26, 2016
 </div>
 
 <p><br /></p>
@@ -208,37 +643,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Posted on June 22, 2016
 </div>
 
-<p><br /></p>
-
-<h3 id="nostalgia">Nostalgia</h3>
-
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/22/cassette-nostalgia.html">
-	<h4 class="post-title">Cassette Nostalgia</h4>
+<a style="color: #404040;" href="/blog/fiction/2016/06/19/pink-floyd.html">
+	<h4 class="post-title">My Dad and Pink Floyd</h4>
 </a>
-    Posted on June 22, 2016
+    Posted on June 19, 2016
 </div>
 
 <p><br /></p>
 
-<h3 id="pride">Pride</h3>
+<h3 id="romance">Romance</h3>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/27/maya-and-the-pride.html">
-	<h4 class="post-title">Maya and the Pride</h4>
+<a style="color: #404040;" href="/romance/2016/07/18/a-night-in-the-train.html">
+	<h4 class="post-title">A Night in the Train</h4>
 </a>
-    Posted on June 27, 2016
+    Posted on July 18, 2016
 </div>
 
-<p><br /></p>
-
-<h3 id="thriller">Thriller</h3>
+<div class="well">
+<a style="color: #404040;" href="/blog/fiction/2016/06/24/the-night.html">
+	<h4 class="post-title">That Night</h4>
+</a>
+    Posted on June 24, 2016
+</div>
 
 <div class="well">
-<a style="color: #404040;" href="/blog/fiction/2016/06/27/maya-and-the-pride.html">
-	<h4 class="post-title">Maya and the Pride</h4>
+<a style="color: #404040;" href="/blog/fiction/2016/06/19/the-morning.html">
+	<h4 class="post-title">The Morning</h4>
 </a>
-    Posted on June 27, 2016
+    Posted on June 19, 2016
 </div>
 
 <p><br /></p>
