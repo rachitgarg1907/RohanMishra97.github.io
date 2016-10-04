@@ -6,8 +6,7 @@ categories: blog social
 tags: commentary
 image: /assets/article_images/2016-06-20-cuts-deep.jpg
 image2: /assets/article_images/2016-06-20-cuts-deep.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/Rohan.jpg
+author: rohan
 ---
 
 <h2> 89 Cuts Deep.</h2>

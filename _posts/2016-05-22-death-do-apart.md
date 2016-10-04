@@ -6,8 +6,7 @@ categories: Thriller
 tags: thriller
 image2: /assets/article_images/2016-05-22-death-do-apart.jpg
 image: /assets/article_images/2016-05-22-death-do-apart.jpg
-author: "Shreya Barua"
-author_image: /assets/images/shreyab.jpg
+author: shreyab
 ---
 <h2>Till Death do us apart</h2>
 (<i>Thriller. 4 minute read</i>)

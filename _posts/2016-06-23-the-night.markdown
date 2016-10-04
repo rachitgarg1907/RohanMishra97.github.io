@@ -6,8 +6,7 @@ categories: blog fiction
 tags: romance
 image: /assets/article_images/2016-06-23-the-night.jpg
 image2: /assets/article_images/2016-06-23-the-night.jpg
-author: "Santrupta Mishra"
-author_image: /assets/images/santrupta.jpg
+author: santrupta
 ---
 <h2>That Night</h2> 
 (*Romance, 3 minute read *) <br>

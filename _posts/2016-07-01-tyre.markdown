@@ -6,8 +6,7 @@ categories: Thriller
 tags: featured thriller
 image: /assets/article_images/2016-07-01-tyre.jpg
 image2: /assets/article_images/2016-07-01-tyre.jpg
-author: "Santrupta Mishra"
-author_image: /assets/images/santrupta.jpg
+author: santrupta
 ---
 <h2>The Lonely Tyre </h2>
 (<i>Fiction, 2 minute read</i>)

@@ -6,8 +6,7 @@ categories: Life
 tags: life
 image2: /assets/article_images/2016-04-13-nietzsche.jpg
 image: /assets/article_images/2016-04-13-nietzsche.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan.jpg
+author: rohan
 ---
 <h2>Nietzsche</h2>
 (<i>Philosophy, 2 minute read</i>)

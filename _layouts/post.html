@@ -6,23 +6,26 @@
   <body itemscope itemtype="http://schema.org/Article">
     {% include header.html %}
     <main class="content" role="main">
+      {% assign author = site.authors[page.author] %}
       <article class="post">
         {% if page.image %}
         <div class="article-image">
           <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
             Article Image
           </div>
-          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 }}{% endif %})">
+          <div class="post-image-image2" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
             Article Image
           </div>
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ page.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+              <div class="author-image" style="background-image: url({{ author.author_image }})">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</h4>
               on
               <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-              <!--, tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
+              , tagged on {% for tag in page.tags %}
+                <a href="/genres#{{tag}}" style="color: white; font-size: 1.3em; text-decoration: none">{{tag | capitalize}}</a> &nbsp;
+            {% endfor %}
           </div>
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
@@ -34,11 +37,14 @@
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
             <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ page.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
+              <div class="author-image" style="background-image: url({{ author.author_image }})">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</h4>
               on
               <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-              <!--, tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
+              , tagged on
+               {% for tag in page.tags %}
+                <a href="/genres#{{tag}}" style="color: #4d4d4d; font-size: 1.3em; text-decoration: none">{{tag | capitalize}}</a> &nbsp;
+            {% endfor %}
             </div>
           </div>
         </div>
@@ -86,8 +92,8 @@
           <div class="isLeft">
             <h5 class="index-headline featured"><span>Written by</span></h5>
             <section class="author">
-              <div class="author-image" style="background-image: url({{page.author_image}})">Blog Logo</div>
-              <h4>{{ page.author }}</h4>
+              <div class="author-image" style="background-image: url({{author.author_image}})">Blog Logo</div>
+              <h4>{{ author.name }}</h4>
               <p class="bio">{{page.bio}}</p>
               <hr>
               <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>

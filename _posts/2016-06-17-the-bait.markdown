@@ -6,8 +6,7 @@ categories: Life
 tags: life
 image: /assets/article_images/2016-06-17-the-bait.jpg
 image2: /assets/article_images/2016-06-17-the-bait.jpg
-author: "Gursifath Bhasin"
-author_image: /assets/images/gursifath.jpg
+author: gursifath
 ---
 
 <h2>The Bait</h2>

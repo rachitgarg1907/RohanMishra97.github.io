@@ -6,8 +6,7 @@ categories: blog fiction
 tags: thriller
 image: /assets/article_images/2016-6-27-maya-and-the-pride.png
 image2: /assets/article_images/2016-6-27-maya-and-the-pride.png
-author: Shreya Barua
-author_image: /assets/images/shreyab.jpg
+author: shreyab
 ---
 <h2>Maya and the Pride</h2>
 (<i>Social Commentary, 4 minutes</i>)

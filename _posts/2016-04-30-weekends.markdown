@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary
 image2: /assets/article_images/2016-05-01-weekends.jpg
 image: /assets/article_images/2016-05-01-weekends.jpg
-author: "Anwesha Padhi"
-author_image: /assets/images/guest.jpg
+author: guest
 ---
 <h2>Patriotism and Weekends-</h2>
 (<i>Social Commentary, 4 minute read </i>)

@@ -6,8 +6,7 @@ categories: blog fiction
 tags:  life
 image: /assets/article_images/2016-06-23-faith.jpg
 image2: /assets/article_images/2016-06-23-faith.jpg
-author: "Raghav Aggarwal"
-author_image: /assets/images/raghav.jpg
+author: raghav
 ---
 
 <h2>Faith</h2>  

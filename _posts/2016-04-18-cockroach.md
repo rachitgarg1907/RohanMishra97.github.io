@@ -6,8 +6,7 @@ categories: ["blog", "weird"]
 tags: commentary
 image: /assets/article_images/2016-04-18-cockroach.jpg
 image2:  /assets/article_images/2016-04-18-cockroach.jpg
-author: "Santrupta Mishra"
-author_image: /assets/images/santrupta.jpg
+author: santrupta
 ---
 <h2>Through the eyes of a Cockroach</h2>
 (<i>Weird,2 minute read</i>)

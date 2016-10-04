@@ -6,8 +6,7 @@ categories: ["blog", "thriller"]
 tags: thriller
 image: /assets/article_images/2016-04-20-twisted-musings.jpg
 image2: /assets/article_images/2016-04-20-twisted-musings.jpg
-author: "Shreya Barua"
-author_image: /assets/images/shreyab.jpg
+author: shreyab
 ---
 <h2>Twisted Musings</h2>
 (<i>Thriller, 4 minute read</i>)

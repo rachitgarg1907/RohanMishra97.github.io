@@ -6,8 +6,7 @@ categories: blog fiction
 tags: romance
 image: /assets/article_images/2016-06-19-the-morning/pic.jpg
 image2: /assets/article_images/2016-06-19-the-morning/pic.jpg
-author: "Harsh Pandey"
-author_image: /assets/images/harsh.jpg
+author: harsh
 ---
 <h2> The Morning</h2>
 (<i> Romance - 3 minute read </i>)<br>

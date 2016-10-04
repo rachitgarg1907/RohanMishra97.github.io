@@ -6,8 +6,7 @@ categories: Thriller
 tags: thriller
 image2: /assets/article_images/2016-05-11-rainy.jpg
 image: /assets/article_images/2016-05-11-rainy.jpg
-author: "Santrupta Mishra"
-author_image: /assets/images/santrupta.jpg
+author: santrupta
 ---
 <h2>The Rainy Mood</h2>
 (<i> Thriller, 5 minute read</i>)

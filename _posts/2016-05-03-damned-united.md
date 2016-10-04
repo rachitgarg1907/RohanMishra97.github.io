@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary
 image2: /assets/article_images/2016-05-03-damned-united.jpg
 image: /assets/article_images/2016-05-03-damned-united.jpg
-author: "Shreya Barua"
-author_image: /assets/images/shreyab.jpg
+author: shreyab
 ---
 <h2>Damned United</h2>
 (<i>Commentary, 4 minute read</i>)

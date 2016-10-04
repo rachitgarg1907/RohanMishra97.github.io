@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary
 image2: /assets/article_images/2016-04-28-bow-and-arrow.png
 image: /assets/article_images/2016-04-28-bow-and-arrow.png
-author: "Shreya Garg"
-author_image: /assets/images/shreyag.jpg
+author: shreyag
 ---
 <h2>Bow vs. Arrow</h2>
 (<i>Commentary, 5 minute read</i>)

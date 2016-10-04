@@ -6,8 +6,7 @@ categories: blog fiction
 tags: music
 image: /assets/article_images/2016-06-20-pink-floyd/pic.jpg
 image2: /assets/article_images/2016-06-20-pink-floyd/pic.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan.jpg
+author: rohan
 ---
 <h2>My dad and Pink Floyd</h2>
 (<i> Music, 3 minutes </i>) <br>

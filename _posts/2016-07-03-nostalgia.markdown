@@ -6,8 +6,7 @@ categories: Poetry
 tags: poetry
 image: /assets/article_images/2016-07-03-nostalgia.jpg
 image2: /assets/article_images/2016-07-03-nostalgia.jpg
-author: "Tanmay Pal"
-author_image: /assets/images/tanmay.jpg
+author: tanmay
 ---
 
 <h2>Nostalgia</h2>

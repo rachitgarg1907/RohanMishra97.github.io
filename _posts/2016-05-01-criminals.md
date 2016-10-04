@@ -6,8 +6,7 @@ categories: Poetry
 tags: poetry
 image2: /assets/article_images/2016-05-01-criminals.jpg
 image: /assets/article_images/2016-05-01-criminals.jpg
-author: "Arushi Chopra"
-author_image: /assets/images/arushi.jpg
+author: arushi
 ---
 <h2>Criminals</h2>
 (<i>Poetry</i>)

@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary 
 image: /assets/article_images/2016-07-08-modern-art.jpg
 image2: /assets/article_images/2016-07-08-modern-art.jpg
-author: "Harsh Pandey"
-author_image: /assets/images/harsh.jpg
+author: harsh
 ---
 <h2>Why Post-Modern Art is not shit.</h2>
 (<i>Commentary, 3 minute read</i>)

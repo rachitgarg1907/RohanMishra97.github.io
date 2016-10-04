@@ -6,8 +6,7 @@ category: Fiction
 tags: fiction
 image: /assets/article_images/a-terribly-uninteresting-tale.jpg
 image2: /assets/article_images/a-terribly-uninteresting-tale.jpg
-author: "Santrupta Mishra"
-author_image: /assets/images/santrupta-mishra.jpg
+author: santrupta
 ---
 <h3>A Terribly Uninteresting Tale</h3>
 (<i>Fiction,3 minute read</i>)

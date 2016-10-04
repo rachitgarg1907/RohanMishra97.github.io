@@ -6,8 +6,7 @@ categories: blog fiction
 tags: music
 image: /assets/article_images/2016-06-21-cassette-nostalgia.jpg
 image2: /assets/article_images/2016-06-21-cassette-nostalgia.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan.jpg
+author: rohan
 ---
 
 <h2>The Cassette Nostalgia</h2>

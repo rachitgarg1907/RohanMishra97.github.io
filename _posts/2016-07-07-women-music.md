@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary
 image: /assets/article_images/2016-07-07-women-music.jpg
 image2: /assets/article_images/2016-07-07-women-music.jpg
-author: "Shreya Garg"
-author_image: /assets/images/shreyag.jpg
+author: shreyag
 ---
 <h2>Objectifying Women in Music</h2>
 (<i>Commentary, 6 minute read</i>)

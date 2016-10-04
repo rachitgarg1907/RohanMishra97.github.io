@@ -6,8 +6,7 @@ category: Poetry
 tags: poetry
 image: /assets/article_images/the-phoenix-in-you.jpg
 image2: /assets/article_images/the-phoenix-in-you.jpg
-author: "Tanmay Pal"
-author_image: /assets/images/tanmay-pal.jpg
+author: tanmay
 ---
 <h3>The Phoenix in You</h3>
 (<i>Poetry,1 minute read</i>)

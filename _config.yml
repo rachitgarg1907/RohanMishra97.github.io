@@ -14,19 +14,67 @@ logo: "/assets/images/tws_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: Rohan Mishra
-author: Rohan Mishra
-author_image: /assets/images/rohan.jpg
-
-#authors:
-  #rohan_mishra:
-  #  name:'Rohan Mishra'
-   # author:'Rohan Mishra'
-    #author_image:"/assets/images/rohan.jpg"
- # harsh_pandey
-  #  name:'Harsh Pandey'
-   # author:'Harsh Pandey'
-    #author_image:"/assets/images/harsh.jpg"
+authors:
+  rohan:
+    name: "Rohan Mishra"
+    author_image: "/assets/images/rohan.jpg"
+  aarman:
+    name: "Aarman Roy"
+    author_image: "/assets/images/aarman.jpg"
+  anvi:
+    name: "Anvi Gupta"
+    author_image: "/assets/images/anvi.jpg"
+  arushi:
+    name: "Arushi Chopra"
+    author_image: "/assets/images/arushi.jpg"
+  ashima:
+    name: "Ashima Suvarna"
+    author_image: "/assets/images/ashima.jpg"
+  chavvi:
+    name: "Chavvi Gupta"
+    author_image: "/assets/images/chavvi.jpg"
+  dakshita:
+    name: "Dakshita Joshi"
+    author_image: "/assets/images/dakshita.jpg"
+  gitanjali:
+    name: "Gitanjali Jaggi"
+    author_image: "/assets/images/gitanjali.jpg"
+  gursifath:
+    name: "Gursifath Bhasin"
+    author_image: "/assets/images/gursifath.jpg"
+  harsh:
+    name: "Harsh Pandey"
+    author_image: "/assets/images/harsh.jpg"
+  raghav:
+    name: "Raghav Aggarwal"
+    author_image: "/assets/images/raghav.jpg"
+  santrupta:
+    name: "Santrupta Mishra"
+    author_image: "/assets/images/santrupta.jpg"
+  shashank:
+    name: "Shashank Shekhar Jha"
+    author_image: "/assets/images/shashank.jpg"
+  shaurya:
+    name: "Shaurya Verma"
+    author_image: "/assets/images/shaurya.jpg"
+  shreyab:
+    name: "Shreya Barua"
+    author_image: "assets/images/shreyab.jpg"
+  shreyag:
+    name: "Shreya Garg"
+    author_image: "assets/images/shreyag.jpg"
+  tanmay:
+    name: "Tanmay Garg"
+    author_image: "/assets/images/tanmay.jpg"
+  shreyasee:
+    name: "Shreyasee Bathsyo"
+    author_image: "/assets/images/shreyasee.jpg"
+  shubhi:
+    name: "Shubhi Srivastava"
+    author_image: "/assets/images/shubhi.jpg"
+  guest:
+    name: "Guest Post"
+    author_image: "/assets/images/guest.jpg"
 
 # paginate:	5
 

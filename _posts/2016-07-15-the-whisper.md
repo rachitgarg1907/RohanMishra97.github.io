@@ -6,8 +6,7 @@ category: Fiction
 tags: fiction
 image: /assets/article_images/the-whisper.jpg
 image2: /assets/article_images/the-whisper.jpg
-author: "Harsh Pandey"
-author_image: /assets/images/harsh-pandey.jpg
+author: harsh
 ---
 <h3>The Whisper</h3>
 (<i>Fiction,2 minute read</i>)

@@ -6,8 +6,7 @@ category: Poetry
 tags: poetry
 image: /assets/article_images/happiness-is.jpg
 image2: /assets/article_images/happiness-is.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan-mishra.jpg
+author: rohan
 ---
 <h3>Happiness is</h3>
 (<i>Poetry,1 minute read</i>)

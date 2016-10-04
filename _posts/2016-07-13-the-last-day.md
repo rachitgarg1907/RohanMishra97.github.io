@@ -6,8 +6,7 @@ category: Poetry
 tags: poetry
 image: /assets/article_images/the-last-day.jpg
 image2: /assets/article_images/the-last-day.jpg
-author: "Gursifath Bhasin"
-author_image: /assets/images/gursifath.jpg
+author: gursifath
 ---
 <h3>The Last Day</h3>
 (<i>Poetry,1 minute read)

@@ -6,8 +6,7 @@ categories: Weird
 tags: thriller
 image2: /assets/article_images/2016-04-23-neurotic-lover.jpg
 image: /assets/article_images/2016-04-23-neurotic-lover.jpg
-author: "Shreya Barua"
-author_image: /assets/images/shreyab.jpg
+author: shreyab
 ---
 <h2>Another Neurotic Lover</h2>
 (<i>Weird, 2 minute read</i>)

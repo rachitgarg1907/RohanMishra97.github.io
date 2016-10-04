@@ -6,8 +6,7 @@ category: Fiction
 tags: fiction
 image: /assets/article_images/when-the-fuckboy-falls-in-love.jpg
 image2: /assets/article_images/when-the-fuckboy-falls-in-love.jpg
-author: "Shubhi Srivastava"
-author_image: /assets/images/shubhi-srivastava.jpg
+author: shubhi.jpg
 ---
 <h3>When The Fuckboy Falls in Love</h3>
 (<i>Fiction,3 minute read</i>)

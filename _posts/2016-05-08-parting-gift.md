@@ -6,8 +6,7 @@ categories: Life
 tags: life
 image2: /assets/article_images/2016-05-08-parting.jpg
 image: /assets/article_images/2016-05-08-parting.jpg
-author: "Hrishita Patnnaik"
-author_image: /assets/images/hrishita.jpg
+author: guest
 ---
 <h2>The Parting Gift</h2>
 (<i>Life, 3 minute read</i>)

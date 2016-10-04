@@ -1,0 +1,2 @@
+bundle exec jekyll serve
+echo "On Localhost : 4000"

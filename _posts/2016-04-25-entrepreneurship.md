@@ -6,8 +6,7 @@ categories: Life
 tags: life
 image2: /assets/article_images/2016-04-25-entrepreneurship.jpg
 image: /assets/article_images/2016-04-25-entrepreneurship.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan.jpg
+author: rohan
 ---
 <h2> Entrepreneurship 101 </h2>
 (<i>Life, 3 minute read</i>)

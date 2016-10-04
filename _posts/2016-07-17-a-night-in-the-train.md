@@ -6,8 +6,7 @@ category: Romance
 tags: romance
 image: /assets/article_images/a-night-in-the-train.jpg
 image2: /assets/article_images/a-night-in-the-train.jpg
-author: "Tanmay Pal"
-author_image: /assets/images/tanmay-pal.jpg
+author: tanmay
 ---
 <h3>A Night in the Train</h3>
 (<i>Romance,3 minute read</i>)

@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary
 image: /assets/article_images/2016-07-01-india.jpg
 image2: /assets/article_images/2016-07-01-india.jpg
-author: "Shreya Garg"
-author_image: /assets/images/shreyag.jpg
+author: shreyag
 ---
 <h2>INDIA WITHOUT BRITISH</h2>
 ( <i>Social Commentary, 3 minute read</i>)<br>

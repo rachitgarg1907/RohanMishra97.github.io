@@ -6,8 +6,7 @@ categories: ["blog", "poetry"]
 tags: poetry
 image: /assets/article_images/2016-04-21-cursed-creek.jpg
 image2: /assets/article_images/2016-04-21-cursed-creek.jpg
-author: "Sharmishta Mohanty"
-author_image: /assets/images/guest.jpg
+author: guest
 ---
 <h2>Cursed Creek</h2>
 (<i>Poetry</i>)

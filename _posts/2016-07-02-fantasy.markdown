@@ -6,8 +6,7 @@ categories: Thriller
 tags: thriller
 image: /assets/article_images/2016-07-02-fantasy.png
 image2: /assets/article_images/2016-07-02-fantasy.png
-author: "Anwesha Padhi"
-author_image: /assets/images/guest.jpg
+author: guest
 ---
 <h2>The Fantasy :- </h2>
 (<i>Thriller, 7 minute read</i>) 

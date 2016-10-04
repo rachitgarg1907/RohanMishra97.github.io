@@ -6,8 +6,7 @@ categories: Life
 tags: life
 image2: /assets/article_images/2016-05-09-omar.jpg
 image: /assets/article_images/2016-05-09-omar.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan.jpg
+author: rohan
 ---
 <h2>Omar Saheb-</h2>
 (<i>Feel Good, 3 minute </i>

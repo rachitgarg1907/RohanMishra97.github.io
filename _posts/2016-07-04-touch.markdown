@@ -6,8 +6,7 @@ categories: Fiction
 tags: fiction
 image: /assets/article_images/2016-07-04-touch.png
 image2: /assets/article_images/2016-07-04-touch.png
-author: "Gursifath Bhasin"
-author_image: /assets/images/gursifath.jpg
+author: gursifath
 ---
 <h2>Touch</h2>
 ( <i>Fiction, 3 minute read</i> )

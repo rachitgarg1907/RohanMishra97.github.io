@@ -6,8 +6,7 @@ categories: Commentary
 tags: commentary
 image2: /assets/article_images/2016-05-15-science.jpg
 image: /assets/article_images/2016-05-15-science.jpg
-author: "Santrupta Mishra"
-author_image: /assets/images/santrupta.jpg
+author: santrupta
 ---
 <h2>SCIENCE-A BITCH</h2>
 (<i>Social Commentary, 5 minute read</i>

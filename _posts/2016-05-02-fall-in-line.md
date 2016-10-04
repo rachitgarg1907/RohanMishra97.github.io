@@ -6,8 +6,7 @@ categories: Life
 tags: life
 image2: /assets/article_images/2016-05-02-fall-in-line.png
 image: /assets/article_images/2016-05-02-fall-in-line.png
-author: "Rohan Mishra"
-author_image: /assets/images/rohan.jpg
+author: rohan
 ---
 <h2>Fall in Line</h2>
 (<i>Life, 3 minute read</i>)

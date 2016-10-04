@@ -6,8 +6,7 @@ category: Life
 tags: life
 image: /assets/article_images/all-along-the-watchtower-an-analysis.jpg
 image2: /assets/article_images/all-along-the-watchtower-an-analysis.jpg
-author: "Rohan Mishra"
-author_image: /assets/images/rohan-mishra.jpg
+author: rohan
 ---
 <h3>All Along The Watchtower: An Analysis</h3>
 (<i>Life,2 minute read</i>)

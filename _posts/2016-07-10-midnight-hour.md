@@ -6,8 +6,7 @@ categories: blog poetry
 tags:  poetry
 image: /assets/article_images/2016-07-10-midnight-hour.jpg
 image2: /assets/article_images/2016-07-10-midnight-hour.jpg
-author: "Abinash Dash Choudhury"
-author_image: /assets/images/guest.jpg
+author: guest
 ---
 <p>At the stroke of the midnight hour&quot;,<br />
 she shed out her skirt<br />

@@ -6,8 +6,7 @@ categories: ["blog", "commentary"]
 tags: commentary
 image: /assets/article_images/2016-04-15-why-travel.jpg
 image2: /assets/article_images/2016-04-15-why-travel.jpg
-author: "Shreya Barua"
-author_image: /assets/images/shreyab.jpg
+author: shreyab
 ---
 <h2>Why Travel?</h2>
 (<i>Commentary,2 minute read</i>)
