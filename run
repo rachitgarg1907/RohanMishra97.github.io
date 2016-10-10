@@ -1,0 +1,3 @@
+echo "Press anything to start. (iykwim)"
+read x
+bundle exec jekyll serve
